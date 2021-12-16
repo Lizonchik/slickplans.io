@@ -12,6 +12,16 @@ blockquote, body, div {
     padding: 0;
 }
 
+.back {
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    padding: 15px 30px;
+    background-color: #1e2c3f;
+    color: #fff;
+    text-decoration: none;
+}
+
 .links {
     margin: 100px auto;
     width: 600px;
